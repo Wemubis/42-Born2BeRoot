@@ -6,7 +6,7 @@ Born2BeRoot est un projet de l'École 42 conçu pour guider les participants dan
 
 <br>
 
-## Notions a connaitre
+## Notions à connaître
 
 ### 1. Bases des Machines Virtuelles
 
@@ -32,7 +32,7 @@ SSH est un protocole d'administration à distance assurant un contrôle sécuris
 
 UFW simplifie la gestion des iptables, améliorant considérablement la sécurité des dispositifs. Il permet l'ouverture sélective des ports, renforçant la sécurité des communications, notamment avec SSH.
 
-### 7. cron et wall
+### 7. Cron et Wall
 
 Cron sert de gestionnaire de tâches Linux, automatisant l'exécution de commandes à des intervalles spécifiés. Wall, de son côté, envoie des messages à tous les utilisateurs connectés, facilitant la communication à l'échelle du serveur.
 
