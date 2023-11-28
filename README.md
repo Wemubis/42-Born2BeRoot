@@ -78,7 +78,7 @@ Cron sert de gestionnaire de tâches Linux, automatisant l'exécution de command
 ### 1. Clonez le Dépôt :
 
 ```bash
-  git clone <lien_du_dépôt>
+  git clone https://github.com/Wemubis/born2beroot.git
 ```
 
 ### 2. Configurez la VM :
