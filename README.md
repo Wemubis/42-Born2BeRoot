@@ -8,31 +8,31 @@ Born2BeRoot est un projet de l'École 42 conçu pour guider les participants dan
 
 ## Notions a connaitre
 
-### Bases des Machines Virtuelles
+### 1. Bases des Machines Virtuelles
 
 Une machine virtuelle (VM) est une entité logicielle capable d'héberger un système d'exploitation, le faisant croire qu'il s'exécute sur du matériel réel. Les VM utilisent un hyperviseur pour gérer et isoler les ressources matérielles de la machine hôte, permettant l'exploitation simultanée de différents systèmes d'exploitation.
 
-### LVM (Logical Volume Manager)
+### 2. LVM (Logical Volume Manager)
 
 LVM agit comme une couche d'abstraction entre les dispositifs de stockage et les systèmes de fichiers, offrant une flexibilité accrue dans la gestion des partitions. Il permet une expansion dynamique et un déplacement des volumes logiques entre les disques physiques.
 
-### AppArmor
+### 3. AppArmor
 
 AppArmor fournit une sécurité de contrôle d'accès obligatoire (MAC), permettant aux administrateurs système de restreindre les actions des processus. Les profils définissent ces restrictions, fonctionnant en mode d'application ou de plainte.
 
-### Apt vs Aptitude
+### 4. Apt vs Aptitude
 
 Dans les distributions OS basées sur Debian, dpkg sert de gestionnaire de paquets par défaut. APT (Advanced Package Tool) automatise la gestion des dépendances lors de l'installation de programmes. Aptitude, une interface graphique, offre un meilleur contrôle des dépendances.
 
-### SSH (Secure Shell)
+### 5. SSH (Secure Shell)
 
 SSH est un protocole d'administration à distance assurant un contrôle sécurisé des serveurs sur Internet. Il crypte les communications et permet aux utilisateurs d'interagir avec leur serveur via le terminal de leur ordinateur.
 
-### UFW (Uncomplicated Firewall)
+### 6. UFW (Uncomplicated Firewall)
 
 UFW simplifie la gestion des iptables, améliorant considérablement la sécurité des dispositifs. Il permet l'ouverture sélective des ports, renforçant la sécurité des communications, notamment avec SSH.
 
-### cron et wall
+### 7. cron et wall
 
 Cron sert de gestionnaire de tâches Linux, automatisant l'exécution de commandes à des intervalles spécifiés. Wall, de son côté, envoie des messages à tous les utilisateurs connectés, facilitant la communication à l'échelle du serveur.
 
